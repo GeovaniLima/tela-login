@@ -1,0 +1,12 @@
+@import url('./satoshi.css');
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Satoshi-Medium', Arial;
+}
+
+.main {
+  width: 75%;
+}
